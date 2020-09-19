@@ -1,0 +1,20 @@
+body{
+    background-color: #000;
+    background-image: url('./assets/ken-cheung-KonWFWUaAuk-unsplash.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.Home{
+    height: 100%;
+    width: 100%;
+}
+.Home-header{
+    margin-top: 40px;
+    color: #FFF;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+
+}
