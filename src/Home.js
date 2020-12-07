@@ -13,7 +13,6 @@ class Home extends Component {
   }
 
   render(){
-    const {count} = this.state;
     const date = new Date().getTime();
     const finalDate = 1609513200000;
     const runningSec = (finalDate - date)/1000;
